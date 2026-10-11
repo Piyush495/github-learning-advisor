@@ -1,0 +1,12 @@
+# Implementation plans
+IMPLN_V1.md
+IMPLN_V2.md
+IMPLN_*.md
+
+# Environment variables & secrets
+.env
+*.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
